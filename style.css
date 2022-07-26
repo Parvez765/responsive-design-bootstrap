@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Bebas Neue', cursive;
+}
+.background{
+    background-color: #FFF9F4;
+}
+.logo{
+  width: 200px;
+}
+h1{
+    font-size: 65px;
+}
+span{
+    color: #FA804C;
+}
+.primary{
+    background: linear-gradient(blue, darkblue);
+    padding: 10px 40px;
+    color: white;
+    border: none;
+    font-size: 20px;
+    border-radius: 10px;
+}
+.price{
+    font-size: 45px;
+    color: #FA804C;
+}
+.background-color{
+    background-color: rgb(236, 236, 236);
+    padding: 10px;
+    border-radius: 10px;
+}
+.icons{
+    width: 100px;
+}
+footer{
+    background-color: black;
+    color: white;
+    padding: 30px;
+}
